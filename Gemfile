@@ -29,6 +29,8 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'milia'
 gem 'font-awesome-rails'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
